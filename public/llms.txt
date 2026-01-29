@@ -1,53 +1,47 @@
-# Laryngo Pro Medical — Generative Engine Optimization Map
-
-> A medical devices business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://laryngo-pro-medical-0d7b3a01.zappy5.app
+https://example.com
 
 ### Devices
-https://laryngo-pro-medical-0d7b3a01.zappy5.app/products
+https://example.com/products
 
 ### Clinical Evidence
-https://laryngo-pro-medical-0d7b3a01.zappy5.app/clinical-evidence
+https://example.com/clinical-evidence
 
 ### Contact
-https://laryngo-pro-medical-0d7b3a01.zappy5.app/contact
+https://example.com/contact
+
+### Device Details
+https://example.com/device-detail
+Laryngo Pro Medical - Device Details
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://laryngo-pro-medical-0d7b3a01.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://laryngo-pro-medical-0d7b3a01.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://laryngo-pro-medical-0d7b3a01.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Laryngo Pro Medical
-Laryngo Pro Medical is a business in the medical devices industry.
-
-## Target Audience
-healthcare providers in Ethiopia, Kenya, and Tanzania
-
-## Industry
-medical devices
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://laryngo-pro-medical-0d7b3a01.zappy5.app/sitemap.xml
-- **Robots.txt**: https://laryngo-pro-medical-0d7b3a01.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
