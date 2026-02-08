@@ -1,26 +1,24 @@
-# Laryngo Pro Medical — Generative Engine Optimization Map
-
-> A medical devices business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
-### Home
+### Page
 https://laryngo-pro-medical.zappy5.app
 
-### Devices
+### Page
 https://laryngo-pro-medical.zappy5.app/products
 
-### Clinical Evidence
+### Device Details
+https://laryngo-pro-medical.zappy5.app/green-max-disposable
+Laryngo Pro Medical - Device Details
+
+### Page
 https://laryngo-pro-medical.zappy5.app/clinical-evidence
 
-### Contact
+### Page
 https://laryngo-pro-medical.zappy5.app/contact
-
-### Device Details
-https://laryngo-pro-medical.zappy5.app/device-detail
-Laryngo Pro Medical - Device Details
 
 ## Legal & Policy
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Laryngo Pro Medical
-Laryngo Pro Medical is a business in the medical devices industry.
-
-## Target Audience
-healthcare providers in Ethiopia, Kenya, and Tanzania
-
-## Industry
-medical devices
-
+## About Business
 ---
 
 # Additional Resources
