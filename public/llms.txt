@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Laryngo Pro Medical — Generative Engine Optimization Map
+
+> A medical devices business.
 
 ---
 
@@ -38,7 +40,15 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Laryngo Pro Medical
+Laryngo Pro Medical is a business in the medical devices industry.
+
+## Target Audience
+healthcare providers in Ethiopia, Kenya, and Tanzania
+
+## Industry
+medical devices
+
 ---
 
 # Additional Resources
