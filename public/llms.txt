@@ -1,57 +1,59 @@
-# Laryngo Pro Medical — Generative Engine Optimization Map
-
-> A medical devices business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Page
-https://laryngo-pro-medical.zappy5.app
+https://laryngo-pro.com
 
 ### Page
-https://laryngo-pro-medical.zappy5.app/devices
+https://laryngo-pro.com/devices
 
 ### Device Details
-https://laryngo-pro-medical.zappy5.app/green-max-disposable
+https://laryngo-pro.com/green-max-disposable
 Laryngo Pro Medical - Device Details
 
 ### Page
-https://laryngo-pro-medical.zappy5.app/clinical-evidence
+https://laryngo-pro.com/clinical-evidence
 
 ### Page
-https://laryngo-pro-medical.zappy5.app/contact
+https://laryngo-pro.com/contact
+
+### Products
+https://laryngo-pro.com/products
+Our Products - Laryngo Pro Medical
+
+### Product Detail
+https://laryngo-pro.com/product/:slug
+Product Details - Laryngo Pro Medical
+
+### Category
+https://laryngo-pro.com/category/:slug
+Products - Laryngo Pro Medical
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://laryngo-pro-medical.zappy5.app/privacy
+https://laryngo-pro.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://laryngo-pro-medical.zappy5.app/terms
+https://laryngo-pro.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://laryngo-pro-medical.zappy5.app/accessibility
+https://laryngo-pro.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Laryngo Pro Medical
-Laryngo Pro Medical is a business in the medical devices industry.
-
-## Target Audience
-healthcare providers in Ethiopia, Kenya, and Tanzania
-
-## Industry
-medical devices
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://laryngo-pro-medical.zappy5.app/sitemap.xml
-- **Robots.txt**: https://laryngo-pro-medical.zappy5.app/robots.txt
+- **Sitemap**: https://laryngo-pro.com/sitemap.xml
+- **Robots.txt**: https://laryngo-pro.com/robots.txt
