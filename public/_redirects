@@ -1,10 +1,9 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-02-24T15:31:20.692Z
+# Generated: 2026-02-24T15:33:55.269Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
 /green-max-disposable  /green-max-disposable.html  200!
-/clinical-evidence  /clinical-evidence.html  200!
 /privacy  /privacy.html  200!
 /accessibility  /accessibility.html  200!
 /terms  /terms.html  200!
