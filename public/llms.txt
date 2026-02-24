@@ -29,6 +29,10 @@ Product Details - Laryngo Pro Medical
 https://laryngo-pro.com/category/:slug
 Products - Laryngo Pro Medical
 
+### About Laryngo Pro Medical
+https://laryngo-pro.com/about
+Laryngo Pro Medical - About Laryngo Pro Medical
+
 ## Legal & Policy
 
 ### Privacy Policy
