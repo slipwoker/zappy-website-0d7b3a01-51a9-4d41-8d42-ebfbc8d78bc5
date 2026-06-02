@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Laryngo Pro Medical — Generative Engine Optimization Map
+
+> A medical devices business.
 
 ---
 
@@ -46,12 +48,113 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+**Total active products: 12**
+
+### Metal Equip Disposable conventional blades 
+https://laryngo-pro.com/product/metal-equip-disposable-conventional-blades-a1x37b
+- Price: 0.00 USD
+- Availability: In stock
+- Description: 100% metal construction 5x the light output of standard incandescent blades. Satin finish laryngoscope blade, reduces glare and enhance to ensures safer intubations. Directional light is optimized for enhanced task performance LED Standard Blades are low profile for ease of use LED always remains cool, ideal for neonates and preemies. Compatible with all ISO 7376-1 Conventional System handles Complete range of Macintosh (00-5) and Miller (000-4) Blades Disposable blade solves contamination probl…
+- Image: https://laryngo-pro.com/assets/product-1771954917498-dqbypq.webp
+
+### STD Conventional Disposable handles
+https://laryngo-pro.com/product/std-conventional-disposable-handles-6u56up
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Cost savings are realized with reduced battery replacement requirements LED technology provides up to 40% more light than conventional halogen bulbs (Remove) Indicated for single-use use to help reduce the risk of cross-contamination Textured surface provides a non-slip grip for enhanced safety Available in two sizes: Medium / Adult and Mini Compatible with all ISO 7376-1 blades Batteries not included Disposable blade solves contamination problems and eliminates the cost and time spent cleaning …
+- Image: https://laryngo-pro.com/assets/product-1771954380660-9fj5nqh.webp
+
+### Satin Green Max (Disposable) Fiberoptic handles
+https://laryngo-pro.com/product/satin-green-max-disposable-fiberoptic-handles-ta0mxq
+- Price: 0.00 USD
+- Availability: In stock
+- Description: A powerful and affordable way to manage the intubation-related infection and boost patient safety. LED technology provides up to 40% more light than conventional halogen bulbs Textured surface provides a non-slip grip for enhanced safety Available in three sizes: Medium &amp; Mini / Pediatric Color-coded green to signify compatibility ONLY with fiberoptic blades Indicated for single-use use to help reduce the risk of cross-contamination Sturdy construction helps withstand the forces of intubatio…
+- Image: https://laryngo-pro.com/assets/product-1771950710435-b39nv.webp
+
+### Metal Green Max Disposable fiberoptic blades 
+https://laryngo-pro.com/product/metal-green-max-disposable-fiberoptic-blades-l6cvcn
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Half stainless-steel &amp; half aluminum blade and best solution for cross-contamination Blades MATT-finished to reduce glare and enhance Blades with non-replaceable fiber optics (Bundles). Cold, bright light – 3200 LUX Acrylic or Jack Black fiber optic bundle to maximize illumination Color-coded green to signify compatibility ONLY with fiberoptic handles Compatible with all ISO 7376-3 (Green System) handles Complete range of Macintosh (00-5) and Miller (000-4) Blades Disposable blade solves con…
+- Image: https://laryngo-pro.com/assets/product-1771950863164-f4poqp.webp
+
+### non-detachable conventional disposable blade and handle
+https://laryngo-pro.com/product/non-detachable-conventional-disposable-blade-and-handle-5tcw06
+- Price: 0.00 USD
+- Availability: In stock
+- Description: &nbsp;▪ Disposable metal blade &amp; handle combination. ▪ LED illumination gives Yellow white colour that is with spectrum now recognized as ideal for enhancing viewing of tissues. ▪ Blade and handle joint with stainless steel locking pin. ▪ Unbreakable handle that folds so that blade-handle fits in most EMS pouches. ▪ Patient safety and comfort from cross-infection. ▪ Very economic and affordable for every country. ▪ Complete range in Mac &amp; Miller Range. ▪ Individually packaged, Clean Blad…
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771510559478-htvs3u.webp
+
+### Stain Forte Disposable conventional blades 
+https://laryngo-pro.com/product/stain-forte-disposable-conventional-blades-zer6mv
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Whiter, Brighter Illumination for Safer Intubations 100% stainless-steel construction 5x the light output of standard incandescent blades. Satin finish laryngoscope blade, reduces glare and enhance to ensures safer intubations. Directional light is optimized for enhanced task performance LED Standard Blades are low profile for ease of use LED always remains cool, ideal for neonates and preemies. Compatible with all ISO 7376-1 Conventional handles Complete range of Macintosh (00-5) and Miller (00…
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771510439237-m46dvg.webp
+
+### STD Conventional Re-usable handles
+https://laryngo-pro.com/product/std-conventional-re-usable-handles-suwo1w
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Cost savings are realized with reduced bulb and battery replacement requirements LED technology provides up to 40% more light than conventional halogen bulbs 100% stainless-steel construction Textured surface provides a non-slip grip for enhanced safety Available in three sizes: Medium / Adult, Mini, and Stubby Compatible with all ISO 7376-1 blades Batteries not included &nbsp;
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771510250056-fdyc4.webp
+
+### Stain Forte Re-usable conventional blades 
+https://laryngo-pro.com/product/stain-forte-re-usable-conventional-blades-8th9x0
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Whiter, Brighter Illumination for Safer Intubations 100% stainless-steel construction 5x the light output of standard incandescent blades. Satin finish laryngoscope blade finish reduces glare, enhance and ensures safer intubations. Directional light is optimized for enhanced task performance LED Standard Blades are low profile for ease of use LED remains cool at all times, ideal for neonates and preemies Bulb replacement is minimized and simplified. Long-lasting LED is one size fits all laryngos…
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771510098486-b4l69v.webp
+
+### Stain Ever Green Disposable fiberoptic blades 
+https://laryngo-pro.com/product/stain-ever-green-disposable-fiberoptic-blades-sg4m5r
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Stain Ever Green Disposable fiberoptic blades 100% stainless-steel blade and best solution for cross-contamination Blades MATT-finished to reduce glare and enhance Blades with non-replaceable fiber optics Bundles. Cold, bright light – 3200 LUX Acrylic or Jack Black fiber optic bundle to maximize illumination Color-coded green to signify compatibility ONLY with fiberoptic handles Compatible with all ISO 7376-3 (Green System) handles Complete range of Macintosh (00-5) and Miller (000-4) Blades Dis…
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771510025025-9xptqb.webp
+
+### Plastic base Green Max fiberoptic Disposable blades
+https://laryngo-pro.com/product/plastic-base-green-max-fiberoptic-disposable-blades-2z6g1q
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Good combination in unbreakable plastic and stainless steel Economic &amp; best solution for cross-contamination Blades MATT-finished to reduce glare and enhance Blades with non-replaceable fiber optics Bundles Cold, bright light – 3200 LUX &nbsp; &nbsp; Acrylic or Jack Black fiber optic bundle to maximize illumination Color-coded green to signify compatibility ONLY with fiberoptic handles Compatible with all ISO 7376-3 (Green System) handles Complete range of Macintosh (0-5) and Miller (00-4) B…
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771509768222-cj55wa.webp
+
+### Satin Ever Green Fiberoptic Re-usable handles 
+https://laryngo-pro.com/product/satin-ever-green-fiberoptic-re-usable-handles-bysrxq
+- Price: 0.00 USD
+- Availability: In stock
+- Description: Engineered for maximum light output LED technology provides up to 40% more light than conventional halogen bulbs Textured surface provides a non-slip grip for enhanced safety 100% stainless-steel construction Available in three sizes: Medium / Adult, Penlight / Pediatric, and Stubby Color-coded green to signify compatibility ONLY with fiberoptic blades Compatible with all ISO 7376-3 (Green System) blades Batteries not included
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771509531593-l0vbu8.webp
+
+### Stain Ever Green fiberoptic Re-usable blades 
+https://laryngo-pro.com/product/stain-ever-green-fiberoptic-re-usable-blades-1hdx87
+- Price: 0.00 USD
+- Availability: In stock
+- Description: 100% stainless-steel construction Blades MATT-finished to reduce glare and enhance Enlarged 3.6 mm diameter fiber optic bundle Engineered with a removable fiber optic bundle to easily replace damaged bundles Cold, bright light – 3200 LUX Color-coded green to signify compatibility ONLY with fiberoptic handles Compatible with all ISO 7376-3 (Green System) handles Complete range of Macintosh (0-5) and Miller (00-4) Blades
+- Image: https://laryngo-pro.com/assets/product-enhanced-1771511553464-p8951q.webp
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://laryngo-pro.com/sitemap.xml
-- **Robots.txt**: https://laryngo-pro.com/robots.txt
+## About Laryngo Pro Medical
+Laryngo Pro Medical is a business in the medical devices industry.
+
+## Target Audience
+healthcare providers in Ethiopia, Kenya, and Tanzania
+
+## Industry
+medical devices
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://laryngo-pro.com/sitemap.xml
+- Robots: https://laryngo-pro.com/robots.txt
+- Flattened page text (for LLMs): https://laryngo-pro.com/llms-full.txt
+- Products (JSON): https://laryngo-pro.com/products.json
+- Products (Google Merchant RSS): https://laryngo-pro.com/product-feed.xml
